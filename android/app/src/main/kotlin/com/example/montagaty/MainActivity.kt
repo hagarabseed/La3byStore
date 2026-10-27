@@ -1,4 +1,4 @@
-package com.example.montagaty
+package com.example.la3byStore
 
 import io.flutter.embedding.android.FlutterActivity
 
