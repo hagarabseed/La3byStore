@@ -1,4 +1,3 @@
-// lib/products_data.dart
 
 final List<Map<String, dynamic>> toyProducts = [
   {
@@ -14,13 +13,6 @@ final List<Map<String, dynamic>> toyProducts = [
     "isFavorite": false,
     "category": "Outdoor Toys",
     "image": "assets/ball.jpg",
-  },
-  {
-    "name": "Doll",
-    "price": 20.0,
-    "isFavorite": false,
-    "category": "Soft Toys",
-    "image": "assets/doll.jpg",
   },
   {
     "name": "Drum",
@@ -56,6 +48,13 @@ final List<Map<String, dynamic>> toyProducts = [
     "isFavorite": false,
     "category": "Skill/Fun Toys",
     "image": "assets/top.jpg",
+  },
+  {
+    "name": "Doll",
+    "price": 20.0,
+    "isFavorite": false,
+    "category": "Soft Toys",
+    "image": "assets/doll.jpg",
   },
   {
     "name": "Train",
@@ -105,13 +104,6 @@ final List<Map<String, dynamic>> toyProducts = [
     "isFavorite": false,
     "category": "Soft Toys",
     "image": "assets/stuffed_animal.jpg",
-  },
-  {
-    "name": "Plush Toy",
-    "price": 19.0,
-    "isFavorite": false,
-    "category": "Soft Toys",
-    "image": "assets/plush_toy.jpg",
   },
   {
     "name": "Water Gun",
